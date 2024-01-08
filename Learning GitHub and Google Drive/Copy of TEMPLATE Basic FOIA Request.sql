@@ -1,4 +1,4 @@
-/*	in coll18_production */
+/*	in coll18_production or dev server */
 
 /*	Revision history:
 		JDT 6/26/2023: Created query for use in basic FOIA directory info requests.
